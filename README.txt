@@ -1,4 +1,4 @@
-WOLFY TRAVELLER BUS WEBSITE
+WOLFY HOLIDAYS BUS WEBSITE
 
 Files:
 - index.html: public bus rental website, booking enquiry form, owner photo upload and public gallery
